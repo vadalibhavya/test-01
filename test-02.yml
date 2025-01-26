@@ -1,4 +1,4 @@
-- name: display test success
+- name: test the yaml file execution
   hosts: localhost
   tasks:
     - name: display test success
