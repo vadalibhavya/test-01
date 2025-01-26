@@ -1,0 +1,6 @@
+- name: display test success
+  hosts: localhost
+  tasks:
+    - name: display test success
+      debug:
+        msg: "test success"
